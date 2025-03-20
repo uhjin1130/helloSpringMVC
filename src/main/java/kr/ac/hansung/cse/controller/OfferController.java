@@ -1,6 +1,5 @@
 package kr.ac.hansung.cse.controller;
 
-import jakarta.servlet.http.HttpServletRequest;
 import kr.ac.hansung.cse.model.Offer;
 import kr.ac.hansung.cse.service.OfferService;
 import org.springframework.beans.factory.annotation.Autowired;
